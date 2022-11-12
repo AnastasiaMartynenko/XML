@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<students>
+    <student>
+        <full_name>
+            <last_name>Карпова;</last_name>
+            <first_name>Анна;</first_name>
+            <middle_name>Александровна;</middle_name>
+        </full_name>
+        <date_of_birth>2008;</date_of_birth>
+        <grade>8A;</grade>
+        <adress>
+            <city>Москва;</city>
+            <street>Ленинский проспект;</street>
+            <building>2;</building>
+            <apartment>277</apartment>
+        </adress>
+        <full_name>
+            <last_name>Малышкин;</last_name>
+            <first_name>Михаил;</first_name>
+            <middle_name>Иванов;</middle_name>
+        <date_of_birth>2014;</date_of_birth>
+        <grade>2Б;</grade>
+        <adress>
+            <city>Москва;</city>
+            <street>Ленинградское шоссе;</street>
+            <building>10;</building>
+            <apartment>56;</apartment>
+        </adress>
+        <full_name>
+            <last_name>Карпова;</last_name>
+            <first_name>Анна;</first_name>
+            <middle_name>Александровна;</middle_name>
+        </full_name>
+        <date_of_birth>2015;</date_of_birth>
+        <grade>1Г;</grade>
+        <adress>
+            <city>Москва;</city>
+            <street>Дмитровское шоссе;</street>
+            <building>107;</building>
+            <apartment>2;</apartment>
+        </adress>
+        </full_name>
+    </student>
+</students>
